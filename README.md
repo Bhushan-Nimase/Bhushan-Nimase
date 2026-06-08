@@ -14,8 +14,8 @@
 ---
 
 ## 🧑‍💻 About Me
-''' javascript
-  
+
+```javascript
 const bhushan = {
   name:       "Bhushan Nimase",
   location:   "India 🇮🇳",
@@ -25,7 +25,8 @@ const bhushan = {
   funFact:    "I debug by talking to my rubber duck 🦆",
   openTo:     ["collaborations", "open source", "new opportunities"],
 };
-'''
+```
+
 ---
 
 ## 🛠️ Tech Stack
