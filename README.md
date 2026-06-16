@@ -142,7 +142,7 @@ SQL Server      ██████████░░░   75%
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:f59e0b&height=3&section=footer" />
+<img width="100%" src="https://ash-folio-kappa.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:f59e0b&height=3&section=footer" />
 
 <br/>
 
