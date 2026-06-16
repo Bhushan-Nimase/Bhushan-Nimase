@@ -1,22 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=20&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0a06,100:0d0a06&height=16&section=header" />
 
-<!-- Name + Role -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bhushan+Nimase" alt="Bhushan Nimase" />
-</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%94+.NET+%2B+React;Building+clean+APIs+and+cinematic+UIs;C%23+%7C+ASP.NET+Core+%7C+React+%7C+SQL+Server;Open+to+roles+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&duration=1&pause=999999&color=FF6B00&center=true&vCenter=true&width=620&lines=Bhushan+Nimase" alt="Bhushan Nimase" />
 
 <br/>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Bhushan-Nimase&color=00D4AA&style=flat-square&label=profile+views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=FFAA40&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%E2%80%94+.NET+%2B+React;Crafting+clean+APIs+%26+cinematic+UIs+%F0%9F%94%A5;C%23+%7C+ASP.NET+Core+%7C+React+%7C+SQL+Server;Open+to+roles+%26+collabs+%E2%80%94+let%27s+build+something" alt="Typing" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Bhushan-Nimase&color=FF6B00&style=flat-square&label=profile+views" />
 &nbsp;
-<img src="https://img.shields.io/badge/status-open%20to%20work-00d4aa?style=flat-square&labelColor=161b22" />
+<img src="https://img.shields.io/badge/status-open%20to%20work-FF6B00?style=flat-square&labelColor=1a1006" />
 &nbsp;
-<img src="https://img.shields.io/badge/location-India%20%F0%9F%87%AE%F0%9F%87%B3-0070f3?style=flat-square&labelColor=161b22" />
+<img src="https://img.shields.io/badge/location-India%20%F0%9F%87%AE%F0%9F%87%B3-ffaa40?style=flat-square&labelColor=1a1006" />
 
 </div>
 
@@ -31,8 +30,8 @@ var bhushan = new Developer {
     Name      = "Bhushan Nimase",
     Role      = "Full Stack Developer",
     Stack     = new[] { "ASP.NET Core", "React", "C#", "SQL Server", "EF Core" },
-    Building  = "Portfolio projects & real-world web apps",
-    Learning  = new[] { "TypeScript", "Next.js", "Cloud (Azure)" },
+    Building  = "Portfolio projects & production-grade web apps",
+    Learning  = new[] { "TypeScript", "Next.js", "Azure" },
     Interests = new[] { "Clean architecture", "REST APIs", "Cinematic UI design" },
     OpenTo    = new[] { "Full-time roles", "Collaborations", "Open source" },
 };
@@ -40,11 +39,11 @@ var bhushan = new Developer {
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
 
-- 🔧 Building **production-grade** full stack apps with .NET & React
-- 🎯 Focused on **clean architecture**, scalable APIs, and great UX
+- 🔥 Building **production-grade** apps with .NET & React
+- 🎯 Obsessed with **clean architecture** and great UX
 - 📖 Currently leveling up: **TypeScript · Next.js · Azure**
-- 🤝 Always up for a good **collab or open-source contribution**
-- ⚡ I treat every side project like it's going to production
+- 🤝 Always up for a solid **collab or open-source** contribution
+- ⚡ Every side project gets treated like it's shipping to prod
 
 <br clear="right"/>
 
@@ -112,12 +111,12 @@ JWT / Auth     █████████░░░░  72%
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Bhushan-Nimase&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&bg_color=0d1117&ring_color=00D4AA" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-Nimase&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00D4AA&text_color=c9d1d9&bg_color=0d1117" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Bhushan-Nimase&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=FF6B00&icon_color=FFAA40&text_color=e6c9a8&bg_color=0d0a06&ring_color=FF6B00" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-Nimase&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=FF6B00&text_color=e6c9a8&bg_color=0d0a06" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhushan-Nimase&theme=github-dark-blue&hide_border=true&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=6e7681&background=0d1117&stroke=21262d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhushan-Nimase&theme=github-dark-blue&hide_border=true&ring=FF6B00&fire=FFAA40&currStreakLabel=FF6B00&sideLabels=e6c9a8&dates=6e5a40&background=0d0a06&stroke=2a1f0e)](https://git.io/streak-stats)
 
 </div>
 
@@ -127,7 +126,7 @@ JWT / Auth     █████████░░░░  72%
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhushan-Nimase&theme=github-compact&hide_border=true&color=00D4AA&line=0070f3&point=00D4AA&area=true&area_color=00d4aa20&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhushan-Nimase&theme=github-compact&hide_border=true&color=FFAA40&line=FF6B00&point=FFAA40&area=true&area_color=ff6b0018&bg_color=0d0a06)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -137,10 +136,10 @@ JWT / Auth     █████████░░░░  72%
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhushan%20Nimase-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-nimase)
-[![GitHub](https://img.shields.io/badge/GitHub-Bhushan--Nimase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhushan-Nimase)
-[![Gmail](https://img.shields.io/badge/Gmail-your--email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhushan%20Nimase-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1006)](https://linkedin.com/in/bhushan-nimase)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhushan--Nimase-FFAA40?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1006)](https://github.com/Bhushan-Nimase)
+[![Gmail](https://img.shields.io/badge/Gmail-your--email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1006)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-FFAA40?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1006)](https://your-portfolio-url.vercel.app)
 
 </div>
 
@@ -148,6 +147,8 @@ JWT / Auth     █████████░░░░  72%
 
 <div align="center">
 
-<sub>Built with focus · Shipped with care · Always iterating</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,50:ff9124,100:FFAA40&height=4&section=footer" />
+
+<sub>Built with focus · Shipped with care · Always iterating 🔥</sub>
 
 </div>
