@@ -1,155 +1,146 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0070f3,100:a855f7&height=200&section=header&text=Bhushan%20Nimase&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=ccfbf1&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=20&section=header" />
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00D4AA&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+ASP.NET+Core+%7C+JavaScript+%7C+C%23;Building+real-world+web+applications+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+collaborate+and+connect+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<!-- Name + Role -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bhushan+Nimase" alt="Bhushan Nimase" />
+</h1>
 
-<br/>
-
-<!-- Profile views + social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Bhushan-Nimase&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Bhushan-Nimase?label=FOLLOWERS&style=for-the-badge&color=0070f3&labelColor=0a0a0f)](https://github.com/Bhushan-Nimase?tab=followers)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%94+.NET+%2B+React;Building+clean+APIs+and+cinematic+UIs;C%23+%7C+ASP.NET+Core+%7C+React+%7C+SQL+Server;Open+to+roles+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Availability badge -->
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00d4aa?style=for-the-badge&labelColor=0a0a0f" />
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=Bhushan-Nimase&color=00D4AA&style=flat-square&label=profile+views" />
+&nbsp;
+<img src="https://img.shields.io/badge/status-open%20to%20work-00d4aa?style=flat-square&labelColor=161b22" />
+&nbsp;
+<img src="https://img.shields.io/badge/location-India%20%F0%9F%87%AE%F0%9F%87%B3-0070f3?style=flat-square&labelColor=161b22" />
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" alt="Coding gif" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+## `$ whoami`
 
-## 🧑‍💻 About Me
-
-```javascript
-const bhushan = {
-  name:      "Bhushan Nimase",
-  role:      "Full Stack Developer",
-  location:  "India 🇮🇳",
-  stack:     ["React", "ASP.NET Core", "JavaScript", "C#"],
-  building:  "Portfolio + real-world web apps",
-  learning:  "TypeScript, Next.js, Cloud",
-  funFact:   "I debug by talking to my rubber duck 🦆",
-  openTo:    ["collabs", "open source", "new roles"],
+```csharp
+var bhushan = new Developer {
+    Name      = "Bhushan Nimase",
+    Role      = "Full Stack Developer",
+    Stack     = new[] { "ASP.NET Core", "React", "C#", "SQL Server", "EF Core" },
+    Building  = "Portfolio projects & real-world web apps",
+    Learning  = new[] { "TypeScript", "Next.js", "Cloud (Azure)" },
+    Interests = new[] { "Clean architecture", "REST APIs", "Cinematic UI design" },
+    OpenTo    = new[] { "Full-time roles", "Collaborations", "Open source" },
 };
 ```
 
-- 🔭 Currently building my **developer portfolio**
-- 🌱 Learning **TypeScript & Next.js**
-- 💬 Ask me about **React, ASP.NET Core, JavaScript, C#**
-- 📫 Reach me at **your-email@gmail.com**
-- ⚡ Fun fact: **coffee → code → repeat**
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
+
+- 🔧 Building **production-grade** full stack apps with .NET & React
+- 🎯 Focused on **clean architecture**, scalable APIs, and great UX
+- 📖 Currently leveling up: **TypeScript · Next.js · Azure**
+- 🤝 Always up for a good **collab or open-source contribution**
+- ⚡ I treat every side project like it's going to production
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**Frontend**
+```
+React          ████████████░  90%
+JavaScript     ████████████░  88%
+HTML / CSS     █████████████  95%
+Tailwind CSS   █████████░░░░  70%
+```
+
+  </td>
+  <td valign="top" width="33%">
+
+**Backend**
+```
+ASP.NET Core   ████████████░  85%
+C#             ████████████░  85%
+Entity FW      ██████████░░░  75%
+SQL Server     ██████████░░░  75%
+```
+
+  </td>
+  <td valign="top" width="33%">
+
+**Tools**
+```
+Git / GitHub   ████████████░  88%
+Postman        ████████████░  85%
+VS / VS Code   █████████████  95%
+JWT / Auth     █████████░░░░  72%
+```
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projects
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Project | What it does | Stack | Repo |
+|:--------|:-------------|:------|:----:|
+| 🎬 **MovieDB** | Movie discovery with live TMDB data, trending & smart search | `React` `JS` `TMDB API` | [↗](https://github.com/Bhushan-Nimase/Movie-Db) |
+| 🛍️ **Online Shop** | Responsive e-commerce storefront with product grid & cart | `HTML` `CSS` `JS` | [↗](https://github.com/Bhushan-Nimase/OnlineShop) |
+| ☕ **Coffee Shop** | Café landing page with menu, brand identity, responsive layout | `HTML` `CSS` `JS` | [↗](https://github.com/Bhushan-Nimase/CoffeeShop) |
+| ⚙️ **ASP.NET Core API** | REST API backend with EF Core, SQL Server, full CRUD | `C#` `.NET` `SQL Server` | [↗](https://github.com/Bhushan-Nimase/core) |
+| 🎥 **Netflix Clone** | Streaming UI with hero sections, carousels, responsive design | `React` `CSS` `JS` | [↗](https://github.com/Bhushan-Nimase/Netflix-clone) |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhushan-Nimase&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&ring_color=00D4AA&title_color=00D4AA&icon_color=00D4AA&text_color=a9b1d6&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-Nimase&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00D4AA&text_color=a9b1d6&bg_color=0d1117" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Bhushan-Nimase&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&bg_color=0d1117&ring_color=00D4AA" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-Nimase&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00D4AA&text_color=c9d1d9&bg_color=0d1117" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhushan-Nimase&theme=tokyonight-duo&hide_border=true&ring=00D4AA&fire=ff9944&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=a9b1d6&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhushan-Nimase&theme=tokyo-night&hide_border=true&color=00D4AA&line=00D4AA&point=ffffff&area=true&area_color=00d4aa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhushan-Nimase&theme=github-dark-blue&hide_border=true&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=6e7681&background=0d1117&stroke=21262d)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Contribution Activity
 
 <div align="center">
 
-| ⚡ | Project | Description | Stack | Link |
-|:---:|:--------|:------------|:------|:----:|
-| 🎬 | **Movie DB** | Movie discovery platform with live API data, trending films & smart search | `React` `JS` `Movie API` | [→](https://github.com/Bhushan-Nimase/Movie-Db) |
-| 🛍️ | **Online Shop** | Responsive e-commerce storefront with product grids & cart UX | `HTML` `CSS` `JS` | [→](https://github.com/Bhushan-Nimase/OnlineShop) |
-| ☕ | **Coffee Shop** | Atmospheric cafe landing page with menu showcase & brand identity | `HTML` `CSS` `JS` | [→](https://github.com/Bhushan-Nimase/CoffeeShop) |
-| ⚙️ | **ASP.NET Core API** | REST API backend with Entity Framework & SQL Server architecture | `C#` `.NET` `SQL` | [→](https://github.com/Bhushan-Nimase/core) |
-| 🎥 | **Netflix Clone** | Netflix-inspired streaming UI with hero sections & responsive carousels | `React` `CSS` `JS` | [→](https://github.com/Bhushan-Nimase/Netflix-clone) |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhushan-Nimase&theme=github-compact&hide_border=true&color=00D4AA&line=0070f3&point=00D4AA&area=true&area_color=00d4aa20&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-nimase)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhushan-Nimase)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhushan-Nimase/Bhushan-Nimase/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhushan-Nimase/Bhushan-Nimase/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Bhushan-Nimase/Bhushan-Nimase/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhushan%20Nimase-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-nimase)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhushan--Nimase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhushan-Nimase)
+[![Gmail](https://img.shields.io/badge/Gmail-your--email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
 
 </div>
 
@@ -157,10 +148,6 @@ const bhushan = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:0070f3,100:00d4aa&height=120&section=footer&animation=fadeIn" />
-
-*"First, solve the problem. Then, write the code."*
-
-⭐ **If you find my projects useful, drop a star — it means a lot!**
+<sub>Built with focus · Shipped with care · Always iterating</sub>
 
 </div>
