@@ -20,7 +20,6 @@
 ---
 
 ```csharp
-// ── IDENTITY ─────────────────────────────────────────────────────
 var bhushan = new Developer {
     Name      = "Bhushan Nimase",
     Role      = "Full Stack Developer",
@@ -29,7 +28,6 @@ var bhushan = new Developer {
     Learning  = new[] { "TypeScript", "Next.js", "Azure" },
     Interests = new[] { "Clean architecture", "REST APIs", "Cinematic UI design" },
     OpenTo    = new[] { "Full-time roles", "Collaborations", "Open source" },
-    // Treats every side project like it's shipping to prod.
 };
 ```
 
